@@ -1,0 +1,5 @@
+Course Code: CSE - 2340
+Course Name: Software Development 1
+Name: Md. Minhaz Uddin Sadi
+ID: C243204
+Section: 3FM
